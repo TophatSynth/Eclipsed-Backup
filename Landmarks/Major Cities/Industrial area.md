@@ -1,0 +1,4 @@
+- Where the oneshot hook will probably be. 
+- Mostly functional (Has to keep a city running ofc)
+- Has large sections of run-down sections that went out of business and just never got cleaned up
+- Some businesses are mundane, some are magical. Most are struggling, just trying to get by. 

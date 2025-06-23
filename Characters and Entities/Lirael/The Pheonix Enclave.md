@@ -1,0 +1,3 @@
+- The opposition party of Lirael. 
+- "This city has fallen too far to be fixed. We need to rebuild from scratch, make a better system with the wisdom of hindsight and planning - and to do that, we will burn it all to the ground."
+- 

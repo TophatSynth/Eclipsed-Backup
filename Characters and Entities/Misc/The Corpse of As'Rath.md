@@ -1,0 +1,2 @@
+Taxidermied first gen magic user - utterly destroyed corpse, mangled beyond humanity and recognition
+- The reality and realisation that the mutations that led to the races we know now were a curse for that first generation.

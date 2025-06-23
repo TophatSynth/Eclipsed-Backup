@@ -1,0 +1,3 @@
+Clerics and paladins have a special role within their order's hierarchy, their position in which is usually determined by how powerful they are; the more powerful the champion, the closer to their god they are said to be. Less powerful champions thus hold lower positions within their church than higher levelled ones, but even the lowest level champions are still considered to be blessed and thus will always hold a decently high position regardless, though they still answer to the orders of their seniors. 
+
+With the exception of the Traveller and the Watchmaker, every god's temple hierarchy has eight layers, mirroring the eight gods of the pantheon. 
