@@ -34,4 +34,5 @@ Table of contents
 - [[Spitballing]]
 - [[Races]]
 - [[Plot ideas]]
+- [[Sessions]]
 

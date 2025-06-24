@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 The continent of () has seen many a catastrophe in millennia past. It has seen kingdoms rise and fall, seen technology and knowledge discovered, destroyed, and discovered again as lives flow by like droplets in a waterfall. Thus, it was inevitable that calamity of this extent should befall humanity just as it was growing out of its infancy. 
 
@@ -9,13 +12,7 @@ And even so, settlements formed, the survivors building small communities in are
 
 () itself now lies in a liminal state between eras; new life grows, fighting and clawing their way out of the rubble and corpses of the former. Much is uncertain, and much more is at stake. But should humanity manage to withstand, to survive not only the threats external but of those within, it may just find itself at the cusp of a new epoch in its history. 
 
-
 # Notable Events
 
-## The War of Il’rath
-
-A few decades after the initial Maelstrom, a duel occurred between two of the most powerful mages at the time. No surviving records or individuals exist to give account of the battle, the identity of the mages, nor the reason for the duel. Despite this, the destruction left behind in its wake speaks volumes to the
-
-## The Time Before
-
-The gods, before they ascended, belonged to a civilisation that had successfully learnt and harnessed magic. Everyone had access to magic, and civilisation evolved to become TL 4+4, with magic. It was a vast civilisation, spanning multiple countries and the majority of the continent. What happened to them is what usually happens to civilisations of that size: they started fighting each other, and eventually brought the whole thing to utter destruction. Magic left the world around that time, and humanity eventually forgot about it. 
+- [[The Time Before]]
+- [[The War of Xan'to]]
