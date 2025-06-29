@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 ## Description
 - A vibrant, modern city, brimming with magic and potential on the surface. But look a little closer, and see that the city is just trying to get by. Still recovering from almost being wiped out by the great magic war, it stands as a home and sanctuary for all things magic. 
 

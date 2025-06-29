@@ -1,8 +1,7 @@
 ---
 dg-publish: true
 ---
-
-The continent of () has seen many a catastrophe in millennia past. It has seen kingdoms rise and fall, seen technology and knowledge discovered, destroyed, and discovered again as lives flow by like droplets in a waterfall. Thus, it was inevitable that calamity of this extent should befall humanity just as it was growing out of its infancy. 
+The continent of Arrendia has seen many a catastrophe in millennia past. It has seen kingdoms rise and fall, seen technology and knowledge discovered, destroyed, and discovered again as lives flow by like droplets in a waterfall. Thus, it was inevitable that calamity of this extent should befall humanity just as it was growing out of its infancy. 
 
 The Marring, The Maelstrom, The Manifestation - there exist many names for the cataclysm that infused every living being on earth with magic and energy so potent that it erupted from their very souls in a manifold of ways. Hundreds of thousands died in an instant, violently exploding as they boiled from the inside out or screaming in agony as their bodies contorted into abominations of flesh and bone. Buildings imploded, whole cities crumbled. Generations of progress and information, destroyed in a blink of an eye. Millions still died in the days, weeks, years to come, from mutations that gradually drained their lifeforce, further spontaneous eruptions of magic, or simply starvation in the new world of desolation and waste. 
 
@@ -10,7 +9,7 @@ It took decades, but eventually the chaos abated, cooling to a quiet simmer. Mag
 
 And even so, settlements formed, the survivors building small communities in areas where the ambient magic was less potent. The most successful of these quickly grew in size as more people arrived, seeking shelter and a semblance of normality. Magic was studied and refined, its users playing key roles in the rebuilding of some societies. Other civilisations opted instead to use technologies unearthed in the ruins of places of innovation past, using their creations to protect themselves from the outside wasteland and each other. Others still are rumoured to have combined both into creations never seen before, though such tales are often simply idle speculation. 
 
-() itself now lies in a liminal state between eras; new life grows, fighting and clawing their way out of the rubble and corpses of the former. Much is uncertain, and much more is at stake. But should humanity manage to withstand, to survive not only the threats external but of those within, it may just find itself at the cusp of a new epoch in its history. 
+Arrendia itself now lies in a liminal state between eras; new life grows, fighting and clawing their way out of the rubble and corpses of the former. Much is uncertain, and much more is at stake. But should humanity manage to withstand, to survive not only the threats external but of those within, it may just find itself at the cusp of a new epoch in its history. 
 
 # Notable Events
 

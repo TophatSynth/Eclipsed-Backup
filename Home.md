@@ -15,16 +15,18 @@ To do:
 		- [ ] Figure out a better name
 	- [ ] The Traitor
 - [ ] Consolidate information of existing cities
-	- [ ] Lirael
+	- [x] Lirael
 	- [ ] Nost
 	- [ ] Nestle
-- [ ] Create and flesh out last two cities
-- [ ] MAP MAP MAPMAPMAP
-- [ ] Create more flora and fauna for the wastes
-- [ ] Sylvia and Jimminy's background and surroundings
-- [ ] Knives of Dragur
-- [ ] Traitor resurrection plan
-- [ ] Consolidate History document
+- [ ] Landmarks
+	- [ ] MAP MAP MAPMAPMAP
+	- [ ] Create and flesh out last two cities
+- [ ] Others
+	- [ ] Create more flora and fauna for the wastes
+	- [ ] Sylvia and Jimminy's background and surroundings
+	- [ ] Knives of Dragur
+	- [ ] Traitor resurrection plan
+
 
 
 Table of contents
