@@ -23,10 +23,3 @@ The temples themselves are aesthetically pleasing, resembling that of old, digni
 True to his pacifist nature, the Scrollbearer remains of the few gods that seems truly ambivalent towards the rest of his pantheon. 
 # Hidden lore
 
-
-
--       
-
--       
-
--       
