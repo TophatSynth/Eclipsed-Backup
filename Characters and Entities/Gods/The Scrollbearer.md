@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Domain and description
 
 God of knowledge and caution, but also of analysis paralysis and inaction. He seeks only to record, not to influence. 

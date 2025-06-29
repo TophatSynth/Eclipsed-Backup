@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Domain and description
 
 The goddess of nature and natural selection. Only the strongest are fit to usher in humanity's next stage of evolution. All others must be weeded out, like chaff from wheat. 
