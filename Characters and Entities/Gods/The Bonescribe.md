@@ -20,11 +20,10 @@ Because of the shared nature of the domain, she has an agreement with [[The Trav
 
 # Hidden lore
 
-Syrrika Ayna Whistel was the oldest of them all, even older than Ryleth, who often acted like the group's leader. She acted like it too, always in flowing robes of antique pattern and fashion wherever she went, and generally never speaking unless she had to. She lived a simple life in the Academy, quietly excelling and generally existing in her corner. 
+Syrrika Ayna Whistel was the oldest of them all, even older than Ryleth, who often acted like the group's leader. She acted like it too, always in flowing robes of antique pattern and fashion wherever she went, and generally never speaking unless she had to. She lived a simple life as a scryer and alumni of the Academy, quietly excelling and generally existing in her corner. 
 
-So why, then, did she accept Ryleth's invitation? She had thought herself content with life. Sure, her reserved nature meant that she never received much recognition for her talents, but that had always been fine... hadn't it?
+So why, then, did she accept Ryleth's invitation? She had thought herself content with life. Sure, her reserved nature meant that she never received much recognition for her talents, but that had always been fine... hadn't it? 
 
+She enjoyed the newfound attention she received from the others when working together, and so worked all the harder on the project. Looking back, all that happened could've been predicted, but she intentionally blinded herself for fear that she'd lose her new life and friends. 
 
-
-
--       Abstained from deciding on magic. “You don't get far without knowing which gambles are wise to take; This is one such decision where a prophecy may bring us more harm than good.”
+When they ascended, her powers overwhelmed her, and she spouted her first prophecy, setting into motion the new-born gods' plan to sabotage humanity for their benefit. She holds onto that power now as tightly as one floating in stormy seas clings onto a raft, terrified of what they have unleashed onto the world - not that she lets any of that show, of course. 

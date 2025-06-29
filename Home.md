@@ -6,13 +6,13 @@ To do:
 - [ ] Finish fleshing out the gods
 	- [x] The Traveller
 	- [ ] The Watchmaker
-	- [ ] The Bonescribe
-	- [ ] The Sage
+	- [x] The Bonescribe
+	- [x] The Sage
 	- [ ] The Paramour
 	- [ ] The Perfervid
 	- [ ] The Hearthmother
-	- [ ] The Scribe
-		- [ ] Figure out a better name
+	- [x] The Scribe
+		- [x] Figure out a better name
 	- [ ] The Traitor
 - [ ] Consolidate information of existing cities
 	- [x] Lirael

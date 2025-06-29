@@ -35,7 +35,7 @@ Deities, gods, supernatural manifestations of humanity's perception of reality. 
 [[The Sage]] - Vassila Idril
 [[The Paramour and The Perfervid]]
 [[The Hearthmother]] - Laena Oroshevik
-[[The Scribe]] - Finadan Meisser 
+[[The Scrollbearer]] - Finadan Meisser 
 [[The Traitor]] - Kelri Phaelen 
 
 See also: [[Priests and champions of the gods]]
