@@ -1,0 +1,1 @@
+Voidstone powder, also known as Nix, temporarily inhibits the magic of whoever ingests it. The process is sickening and painful, often causing nausea and weakness. Chronic use of the powder can lead to emaciation and possibly death, though the exact pathogenesis is unclear. 

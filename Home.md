@@ -19,13 +19,14 @@ To do:
 	- [ ] Nost
 	- [ ] Nestle
 - [ ] Landmarks
-	- [ ] MAP MAP MAPMAPMAP
+	- [x] MAP MAP MAPMAPMAP
 	- [ ] Create and flesh out last two cities
 - [ ] Others
 	- [ ] Create more flora and fauna for the wastes
-	- [ ] Sylvia and Jimminy's background and surroundings
-	- [ ] Knives of Dragur
+	- [x] Sylvia and Jimminy's background and surroundings
+	- [x] Knives of Dragur
 	- [ ] Traitor resurrection plan
+	- [ ] Random Encounter Tables
 
 
 
