@@ -1,0 +1,1 @@
+https://www.reddit.com/r/d100/comments/1m0v2gy/complete_d100_list_for_your_reviewinput_body/

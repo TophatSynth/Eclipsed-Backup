@@ -13,4 +13,5 @@ dg-publish: true
 
 
 Notes:
-- The distance between the "big three" is about 420km each way (roughly a week's travel by horseback if you set a fast pace.)
+- The distance between the "big three" is about 420km each way (or whatever takes roughly a week's travel by horseback if you set a fast pace.)
+- 

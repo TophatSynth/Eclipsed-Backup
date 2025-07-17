@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Domain and description
 Goddess of peace, warmth and generosity. 
 # Public image and followers

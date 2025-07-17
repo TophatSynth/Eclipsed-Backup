@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Domain and description
 
 God of luck, fate, prophecy and the undead, the Bonescribe is often depicted with a vibrant and multicoloured patchwork cloak that shifts to ashen grey when prophesying, and a set of knucklebone dice inscribed with runes. 

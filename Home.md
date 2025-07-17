@@ -38,4 +38,5 @@ Table of contents
 - [[Races]]
 - [[Plot ideas]]
 - [[Sessions]]
+- [[Misc]]
 
