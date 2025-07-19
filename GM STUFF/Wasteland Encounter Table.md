@@ -1,7 +1,7 @@
 
 
-1. [[Wasteland Fae]]
-2. [[The Silent Ones]]
+1. PER check. On a success, the party spots 1d4 [[Wasteland Fae]] up ahead. On a fail, the party don't notice them until just before they bump into them. Depending on the fae, they may be ambivalent or neutral until attacked, wary but can be communicated with and negotiated with, or will attack on sight. 
+2. PER check. On a success, the party spots 1d4 [[The Silent Ones]] up ahead. On a fail, they get surprised by them. 
 3. Roaming [[The Knives of Dra'gur]] patrol
 4. See a glowing deer
 5. Statue of [[The Traveller]] with offerings in front of it. safe place to stay nearby. Roll a d4, on an even result there are people already staying there. Most of them bear fresh mutations, and some may be on life support. 

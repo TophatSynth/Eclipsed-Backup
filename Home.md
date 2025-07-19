@@ -3,17 +3,17 @@ dg-publish: true
 dg-home: true
 ---
 To do:
-- [ ] Finish fleshing out the gods
+- [x] Finish fleshing out the gods
 	- [x] The Traveller
-	- [ ] The Watchmaker
+	- [x] The Watchmaker
 	- [x] The Bonescribe
 	- [x] The Sage
-	- [ ] The Paramour
-	- [ ] The Perfervid
-	- [ ] The Hearthmother
+	- [x] The Paramour
+	- [x] The Perfervid
+	- [x] The Hearthmother
 	- [x] The Scribe
 		- [x] Figure out a better name
-	- [ ] The Traitor
+	- [x] The Traitor
 - [ ] Consolidate information of existing cities
 	- [x] Lirael
 	- [ ] Nost
@@ -26,7 +26,7 @@ To do:
 	- [x] Sylvia and Jimminy's background and surroundings
 	- [x] Knives of Dragur
 	- [ ] Traitor resurrection plan
-	- [ ] Random Encounter Tables
+	- [x] Random Encounter Tables
 
 
 

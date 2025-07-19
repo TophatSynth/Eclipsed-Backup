@@ -12,3 +12,11 @@
 
 
 ![[Titian The Tortle.pdf]]
+
+The Traveller: The god of the dead and the lonely. Seems to be very popular among the lower classes, especially the slums. 
+The Watchmaker: Patron god of businessmen and innovators. Very popular among the higher nobility. 
+The Bonescribe: The god of prophecy. Often sworn by in gambling games. 
+The Sage: The warrior god of nature. Has a very violent and warmongering following. 
+The Paramour and Perfervid: Twin gods of love and passion. Not taken as seriously as the others, and their followers can be a bit hedonic. 
+The Hearthmother: The god of peace and home. A bit preachy and patronising sometimes, but you suppose they mean well. 
+The Scrollbearer: The god of knowledge and analysis. Their followers are often ridiculed as cloistered and paranoid. 
