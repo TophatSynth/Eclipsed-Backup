@@ -10,4 +10,8 @@
 - Titian wants to find a cure for his curse - Hearthmother? Eldritch god? 
 - Fern - Knives of Dra'gur looking for her
 - Kit looking for a way to cure her son
+
+
+### Stupid things
+- ![[Pasted image 20250720154730.png]]
 - 

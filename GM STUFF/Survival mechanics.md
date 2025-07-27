@@ -1,10 +1,12 @@
 ## Food and Water
+
 We're using a ration system. 1 ration is one day's worth of food for one person. 
 Each day that passes, you consume one ration. You can forgo eating a ration for a day, and instead roll a CON save. On a success, you'll be fine. On a fail, you take one level of exhaustion. 
 The DC is whatever I determine it to be based on what you did that day, but generally it'll be higher if you did a lot of strenuous activity. It also increases for each day you forgo eating, and resets when you eat a full ration. 
 Exhaustion levels decrease by one for each day of taking a full ration. 
 
 ## Long Rests
+
 You'll only be able to take a long rest when in a "safe" environment. This means decent shelter where you're protected from the elements and aren't freezing or boiling to death. (I reserve the right to determine what is and isn't safe. Looking at Sam and Harvard.) 
 
 You'll still be able to sleep and not take levels of exhaustion, it just means you don't get the benefits of a long rest (hp to full, spell slots restored etc). Better find good places to stay!

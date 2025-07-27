@@ -11,4 +11,24 @@
 	- First one or two days of travel will be within the ruins of the city. After that it'll be wasteland (grassland, then forest)
 - Ambushed by [[The Knives of Dra'gur]] 
 	- Day 3 maybe
-	- 
+
+
+## Combat
+
+![[Gilded Shard Golem.png]]
+
+![[Sorceline Golem.png]]
+- Mama golem. Baby crystal clump. 
+
+
+## Recap
+
+- apparently the shopkeep told them to go to nestle bc someone there may have the knowhow or connections to figure out what the amulet does
+- found a building with spike traps, hole under chest, basement w/ sylvia's notes 
+	- The notes are to do lists of sylvia's life. "Find a cure."
+- Man spider things attacked. Emryn casts fireball on the entire party, almost killing them. Kit responds by downing her (she's fine)
+- Good rp where they confront each other. 
+	- Titian offers to try and help Emryn take over the body. 
+	- FINALLY REVEALS EMRYN'S NAME
+	- apparently emryn has the amulet
+	- Kit talks abt her and kayna's backstory

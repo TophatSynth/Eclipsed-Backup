@@ -1,0 +1,6 @@
+- Eccentric old man with a hoarse voice, living out in the wastes. Shirtless and long black baggy pants, a balding head and a long white beard and eyebrows. Wrinkly skin
+- "Ye see what the world is like these days? Ye ever wondered, with all the magic and powers in the world, why we haven't progressed more? We've- we've got magic doctors and magic priests and magic hookers, don't you think things should've gotten better by now? It's a weird thing, I tell ya. Ye know what I think? I think it's tha shadow government. It's the shadow government, I tell ya! They been controlling us before this whole mess started, and they're still controlling us now! Why, I bet this whole thing is a conspiracy, just to keep us scattered and confused!"
+- The shadow government; it's a weird thing
+- Conspiracy theories
+- Freakishly strong for his thin and wiry frame. Is probably a barbarian. 
+- 
