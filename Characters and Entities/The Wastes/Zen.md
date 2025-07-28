@@ -7,7 +7,7 @@ He took [[Fern The Elf]] in when she was still a petty criminal, and so is the c
 
 Goals: 
 - (Long term) To expand his empire to stretch across the entire continent. 
-- (Short term) To get the amulet back and secure the rest of the egregious sum of money the [[The Pheonix Enclave]] promised him. 
+- (Short term) To get the amulet back and secure the rest of the egregious sum of money that [[The Pheonix Enclave]] promised him. 
 
 Notes:
 - Tabaxi

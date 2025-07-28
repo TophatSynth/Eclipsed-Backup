@@ -12,5 +12,8 @@
 - Looking for a way to change the child back
 
 
+![[Kit1.jpg]]
+
+![[Kit2.jpg]]
 
 ![[Kit The Goliath.pdf]]

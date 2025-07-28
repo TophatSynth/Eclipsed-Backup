@@ -13,3 +13,4 @@ The Conductor is an eldritch being/ascended being who bound his soul in a contra
 - Current goal: Gather power and set himself free, maybe find a way to destroy the Nine. 
 - He will try to convince the party to give him essence in return for his services, promising that the more they give, the more he can do return. 
 - His power currently is limited to transportation to any other station in the Wastes, but he also has much knowledge that could be valuable for them. 
+- When asked what's his deal, he simply responds that he is a higher entity that has been bound here by circumstances out of his control. He is now trying to gain power to rise from his shackles. 
