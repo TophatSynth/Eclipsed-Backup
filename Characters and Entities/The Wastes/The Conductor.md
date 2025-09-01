@@ -14,3 +14,9 @@ The Conductor is an eldritch being/ascended being who bound his soul in a contra
 - He will try to convince the party to give him essence in return for his services, promising that the more they give, the more he can do return. 
 - His power currently is limited to transportation to any other station in the Wastes, but he also has much knowledge that could be valuable for them. 
 - When asked what's his deal, he simply responds that he is a higher entity that has been bound here by circumstances out of his control. He is now trying to gain power to rise from his shackles. 
+
+Contracts: 
+1. Binding his soul to this station, in return for never being able to leave the station. 
+2. ⁠Anti magic field surrounding the station, in return for not being able to absorb ambient mana for power
+
+- Needs power to create and destroy contracts.

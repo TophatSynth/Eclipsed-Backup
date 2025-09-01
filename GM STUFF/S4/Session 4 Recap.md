@@ -1,0 +1,20 @@
+- 
+- Titian made a deal with The Conductor: In return for an advance payment of two spell canisters, they can negotiate a favour that the Conductor will owe him. Once completed, another spell canister must be given. 
+- Zanbirb inspected the station, found "The Nine" in Thieves' Cant. 
+- Allowed three questions:
+	- What is The Nine?
+		- Cannot answer that. Choose a different question. 
+	- When did you come here, and for what purpose?
+		- Around 60 years ago. To gain power.
+	- Are there other entities that are looking to gain power? 
+		- Yes. I do not know of their state nor how many, but I know they exist. 
+		- A word of advice: Do not be bothered about those clamouring for power, but rather those that already have it. 
+	- Where did Adhara go?
+		- In a straight line from where you came out the other side. 
+	- Who are these entities already in power?
+		- Different inquiry. 
+	- Why can't you speak of the Nine? (bonus answer)
+		- Names have power. Even talking about some things is dangerous. 
+
+- Night watches
+	- Fern for first watch, Kit second and Zanbirb last
