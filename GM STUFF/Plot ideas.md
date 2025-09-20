@@ -8,6 +8,7 @@
 
 ### The Wastes
 - Zen finds out about the Conductor. Provides human sacrifices in return for promising aid and power. 
+- Zombie fungus ridden village
 
 ### Players
 - Titian wants to find a cure for his curse - Hearthmother? Eldritch god? 

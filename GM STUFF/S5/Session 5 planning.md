@@ -1,0 +1,18 @@
+- A/E doppelganger meets them in sinkhole 
+- SIREN SONG lures Kayna and Little bro into sinkhole
+	- Sirens...... final boss siren? 
+		- If characters can hear the siren, they must make a DC 15 Int check or become dazed and walk towards the siren. 
+	- Sirens working together with burrowers and lava toads
+		- Burrowers make sinkhole but hard to get prey to fall in
+			- Ambush predators - on the surface looks fine, sinkhole beneath
+			- Also v sensitive to light - will shy away from light sources that are too bright
+			- Deaf - not under the influence of the sirens
+		- Lava toads provide soft light, enough for the burrowers to see well in the dark
+			- Also they are tanky bastards that can block opponents while the burrowers nip in and out
+			- Not deaf - hypnotised 
+		- Sirens lure things in but are generally quite fragile
+			- Made of grass, so burns quite easily
+			- But also has magic reflection :) bc fuck you Titian :) 
+	- Lots of narrow tunnels
+- [[Session 5 combat]]
+	- 
