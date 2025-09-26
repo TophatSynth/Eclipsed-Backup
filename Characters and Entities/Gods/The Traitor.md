@@ -14,6 +14,6 @@ The Watchmaker regards him with particular disdain and hatred, though most of th
 
 # Hidden lore
 
-He wasn't always the god of chaos. Beforre he was cast out, he was the god of the natural flow of change, of uprising and defiance and of revolution. 
+He wasn't always the god of chaos. Before he was cast out, he was the god of the natural flow of change, of uprising and defiance and of revolution. 
 
 Only the original Nine know of his true story. Some of the newly ascended may suspect something, but it is a closely guarded secret that none have managed to discover - none who are still alive, anyway. 

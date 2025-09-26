@@ -1,4 +1,5 @@
 - A/E doppelganger meets them in sinkhole 
+	- Has hybrid of A/E's abilities n spells
 - SIREN SONG lures Kayna and Little bro into sinkhole
 	- Sirens...... final boss siren? 
 		- If characters can hear the siren, they must make a DC 15 Int check or become dazed and walk towards the siren. 
@@ -14,5 +15,9 @@
 			- Made of grass, so burns quite easily
 			- But also has magic reflection :) bc fuck you Titian :) 
 	- Lots of narrow tunnels
+	- Midway through the tunnels, they find the [[Miniature Figurine]] lying in a remote corner. 
 - [[Session 5 combat]]
-	- 
+	- Siren has many bodies tied up in vines around it
+	- Some are skeletons, some are whole, some have huge chunks ripped out of them
+- At the end: 
+	- Treasure trove. 10 minutes with the pinterest board. Items subject to alterations, but not approval. 
